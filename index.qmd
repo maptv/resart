@@ -1,14 +1,14 @@
 ---
-title: art
+title: Circadian patterns
 authors:
-  - name: Norah Jones
-    affiliation: The University
+  - name: Martin Laptev
+    affiliation: CCBC
     roles: writing
     corresponding: true
 bibliography: references.bib
 ---
 
-## Section
+## Circadian rhyhms 
 
 Write some text.
 
