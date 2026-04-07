@@ -1,8 +1,8 @@
 ---
 title: "Interactions Among Cortisol, Melatonin, and Serotonin Across the Circadian Cycle"
-author: Martin Laptev
+author:
+  - name: Martin Laptev
     affiliation: CCBC
-date: 2024
 format:
   html:
     toc: true
