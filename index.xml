@@ -66,9 +66,16 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 <body>
 <sec id="section">
   <title>Section</title>
+  <p>Write some text.</p>
+  <p>And maybe put in a citation:
+  (<xref alt="Rosenwasser and Turek 2015" rid="ref-Rosenwasser2015" ref-type="bibr">Rosenwasser
+  and Turek 2015</xref>).</p>
   <p>This is a simple placeholder for the manuscript’s main document
   (<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
   1984</xref>).</p>
+  <p>Put in an image:</p>
+  <graphic mimetype="image" mime-subtype="png" xlink:href="images/clipboard-1031476596.png" />
+  <graphic mimetype="image" mime-subtype="png" xlink:href="images/clipboard-3115331740.png" />
 </sec>
 </body>
 
@@ -92,6 +99,23 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
       <pub-id pub-id-type="doi">10.1093/comjnl/27.2.97</pub-id>
       <fpage>97</fpage>
       <lpage>111</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Rosenwasser2015">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Rosenwasser</surname><given-names>Alan M.</given-names></name>
+        <name><surname>Turek</surname><given-names>Fred W.</given-names></name>
+      </person-group>
+      <article-title>Neurobiology of circadian rhythm regulation</article-title>
+      <source>Sleep Medicine Clinics</source>
+      <year iso-8601-date="2015-12">2015</year><month>12</month>
+      <volume>10</volume>
+      <issue>4</issue>
+      <uri>http://dx.doi.org/10.1016/j.jsmc.2015.08.003</uri>
+      <pub-id pub-id-type="doi">10.1016/j.jsmc.2015.08.003</pub-id>
+      <fpage>403</fpage>
+      <lpage>412</lpage>
     </element-citation>
   </ref>
 </ref-list>
