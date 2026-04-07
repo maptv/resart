@@ -11,16 +11,16 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <title-group>
-<article-title>art</article-title>
+<article-title>Circadian patterns</article-title>
 </title-group>
 
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
 <name>
-<surname>Jones</surname>
-<given-names>Norah</given-names>
+<surname>Laptev</surname>
+<given-names>Martin</given-names>
 </name>
-<string-name>Norah Jones</string-name>
+<string-name>Martin Laptev</string-name>
 
 <role vocab="https://credit.niso.org" vocab-term="writing – original
 draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
@@ -30,7 +30,7 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 </contrib-group>
 <aff id="aff-1">
 <institution-wrap>
-<institution>The University</institution>
+<institution>CCBC</institution>
 </institution-wrap>
 
 
@@ -64,8 +64,8 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 </front>
 
 <body>
-<sec id="section">
-  <title>Section</title>
+<sec id="circadian-rhyhms">
+  <title>Circadian rhyhms</title>
   <p>Write some text.</p>
   <p>And maybe put in a citation:
   (<xref alt="Rosenwasser and Turek 2015" rid="ref-Rosenwasser2015" ref-type="bibr">Rosenwasser
