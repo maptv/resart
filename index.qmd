@@ -8,16 +8,61 @@ authors:
 bibliography: references.bib
 ---
 
-## Circadian rhyhms 
+---
+title: "Interactions Among Cortisol, Melatonin, and Serotonin Across the Circadian Cycle"
+author: 
+  - name: "Your Name"
+    affiliation: "Your Institution"
+date: "2024"
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+bibliography: references.bib
+csl: nature.csl
+---
 
-Write some text.
+# Abstract
 
-And maybe put in a citation: [@Rosenwasser2015].
+The circadian rhythm is a fundamental biological process that coordinates physiological and behavioral activities with the 24-hour light–dark cycle. This manuscript explores the temporal interplay among **cortisol**, **melatonin**, and **serotonin**, focusing on their synchronized fluctuations across the diurnal cycle and their collective impact on sleep, stress response, and mood regulation.
 
-This is a simple placeholder for the manuscript's main document [@knuth84].
+# Introduction
 
-Put in an image:
+Circadian rhythms orchestrate physiological processes via central and peripheral clocks, largely governed by the **suprachiasmatic nucleus (SCN)** in the hypothalamus. This master pacemaker integrates photic signals and synchronizes hormonal release patterns across multiple systems [@reppert2002molecular; @hastings2018circadian].
 
-![](images/clipboard-1031476596.png)
+The hormones **cortisol**, **melatonin**, and **serotonin** exhibit distinct yet interdependent circadian profiles. Understanding their interplay is critical for elucidating mood disorders, sleep disturbances, and stress dysregulation.
 
-![](images/clipboard-3115331740.png)
+# Cortisol and the Diurnal Stress Axis
+
+Cortisol, a glucocorticoid released via the hypothalamic–pituitary–adrenal (HPA) axis, shows a well-characterized daily rhythm. Levels peak shortly after awakening — the **Cortisol Awakening Response (CAR)** — and decline steadily throughout the day [@kirschbaum1999cortisol]. This pattern aligns with metabolic activation and the preparation of the organism for daytime activity.
+
+Chronic disruption of this rhythm, such as in shift work or major depression, leads to elevated or blunted cortisol rhythms, contributing to metabolic and psychological dysfunction [@miller2007chronic].
+
+# Melatonin as a Timekeeper
+
+Melatonin secretion from the pineal gland begins after dusk and peaks during the night, serving as a biochemical signal of darkness [@arendt2005melatonin]. Light exposure, particularly at blue wavelengths, inhibits melatonin production through retinal signaling to the SCN.
+
+This nocturnal signal acts as a “hormonal clock,” coordinating peripheral rhythms and regulating sleep onset and maintenance.
+
+# Serotonin and Daytime Arousal
+
+Serotonin, synthesized from tryptophan in the raphe nuclei, displays elevated concentrations during wakefulness and reduced activity during sleep [@jacobs1991serotonergic]. It forms a biochemical link with melatonin, as melatonin synthesis depends on serotonin availability and enzymatic conversion within the pineal gland [@axelrod1970enzyme].
+
+Dysregulation in serotonergic tone disrupts mood and contributes to circadian misalignment in depressive disorders.
+
+# Interactions and Integration
+
+The three hormones demonstrate a coordinated feedback system:
+
+- **Cortisol** promotes arousal and mobilizes energy during daylight.
+- **Serotonin** regulates mood and maintains daytime wakefulness.
+- **Melatonin** signals sleep onset and circadian phase resetting.
+
+Environmental cues, particularly light exposure and social timing, entrain this system. Misalignment between internal and external rhythms leads to **circadian desynchrony**, common in jet lag, shift work, or mood disorders [@mistlberger2011circadian].
+
+# Conclusion
+
+Cortisol, melatonin, and serotonin form a dynamic endocrine triad that reflects and reinforces circadian homeostasis. Understanding these relationships provides insights into therapeutic interventions for sleep and affective disorders.
+
+# References
