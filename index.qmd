@@ -9,4 +9,15 @@ bibliography: references.bib
 ---
 
 ## Section
+
+Write some text.
+
+And maybe put in a citation: [@Rosenwasser2015].
+
 This is a simple placeholder for the manuscript's main document [@knuth84].
+
+Put in an image:
+
+![](images/clipboard-1031476596.png)
+
+![](images/clipboard-3115331740.png)
