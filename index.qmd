@@ -1,26 +1,14 @@
 ---
-title: Circadian patterns
-authors:
-  - name: Martin Laptev
-    affiliation: CCBC
-    roles: writing
-    corresponding: true
-bibliography: references.bib
----
-
----
 title: "Interactions Among Cortisol, Melatonin, and Serotonin Across the Circadian Cycle"
-author: 
-  - name: "Your Name"
-    affiliation: "Your Institution"
-date: "2024"
+author: Martin Laptev
+    affiliation: CCBC
+date: 2024
 format:
   html:
     toc: true
     number-sections: true
     code-fold: true
 bibliography: references.bib
-csl: nature.csl
 ---
 
 # Abstract
@@ -55,9 +43,9 @@ Dysregulation in serotonergic tone disrupts mood and contributes to circadian mi
 
 The three hormones demonstrate a coordinated feedback system:
 
-- **Cortisol** promotes arousal and mobilizes energy during daylight.
-- **Serotonin** regulates mood and maintains daytime wakefulness.
-- **Melatonin** signals sleep onset and circadian phase resetting.
+-   **Cortisol** promotes arousal and mobilizes energy during daylight.
+-   **Serotonin** regulates mood and maintains daytime wakefulness.
+-   **Melatonin** signals sleep onset and circadian phase resetting.
 
 Environmental cues, particularly light exposure and social timing, entrain this system. Misalignment between internal and external rhythms leads to **circadian desynchrony**, common in jet lag, shift work, or mood disorders [@mistlberger2011circadian].
 
